@@ -1,2 +1,5 @@
 # Ignore images directory
 /images/
+
+_site/
+.bundle
