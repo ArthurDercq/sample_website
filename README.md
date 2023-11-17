@@ -2,7 +2,7 @@
 
 # First Simple Website
 
-This repository is a beginner's simple website and for learning HTML basics.
+This repository is a beginner's simple website and for learning HTML& CSS basics.
 
 ## Getting Started
 

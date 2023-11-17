@@ -1,4 +1,2 @@
-# Ignore images directory
-/images/*
-./HTML_course/*
 .bundle
+_site/
